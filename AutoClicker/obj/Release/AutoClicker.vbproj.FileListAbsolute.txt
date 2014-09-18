@@ -1,0 +1,55 @@
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\bin\Release\AutoClicker.exe.config
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\bin\Release\AutoClicker.exe.manifest
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\bin\Release\AutoClicker.application
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\bin\Release\AutoClicker.exe
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\bin\Release\AutoClicker.pdb
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\bin\Release\AutoClicker.xml
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\obj\Release\AutoClicker.Form4.resources
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\obj\Release\AutoClicker.Help.resources
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\obj\Release\AutoClicker.Form1.resources
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\obj\Release\AutoClicker.Form2.resources
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\obj\Release\AutoClicker.Resources.resources
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\obj\Release\AutoClicker.vbproj.GenerateResource.Cache
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\obj\Release\AutoClicker.exe.manifest
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\obj\Release\AutoClicker.application
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\obj\Release\AutoClicker.exe
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\obj\Release\AutoClicker.xml
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\obj\Release\AutoClicker.pdb
+C:\Users\Kyle Heitman\Desktop\VB_Projects\AutoClicker\AutoClicker\bin\Release\AutoClicker.exe.config
+C:\Users\Kyle Heitman\Desktop\VB_Projects\AutoClicker\AutoClicker\obj\Release\AutoClicker.exe
+C:\Users\Kyle Heitman\Desktop\VB_Projects\AutoClicker\AutoClicker\obj\Release\AutoClicker.xml
+C:\Users\Kyle Heitman\Desktop\VB_Projects\AutoClicker\AutoClicker\obj\Release\AutoClicker.pdb
+C:\Users\Kyle Heitman\Desktop\VB_Projects\AutoClicker\AutoClicker\bin\Release\AutoClicker.exe.manifest
+C:\Users\Kyle Heitman\Desktop\VB_Projects\AutoClicker\AutoClicker\bin\Release\AutoClicker.application
+C:\Users\Kyle Heitman\Desktop\VB_Projects\AutoClicker\AutoClicker\bin\Release\AutoClicker.exe
+C:\Users\Kyle Heitman\Desktop\VB_Projects\AutoClicker\AutoClicker\bin\Release\AutoClicker.pdb
+C:\Users\Kyle Heitman\Desktop\VB_Projects\AutoClicker\AutoClicker\bin\Release\AutoClicker.xml
+C:\Users\Kyle Heitman\Desktop\VB_Projects\AutoClicker\AutoClicker\obj\Release\AutoClicker.Form4.resources
+C:\Users\Kyle Heitman\Desktop\VB_Projects\AutoClicker\AutoClicker\obj\Release\AutoClicker.Help.resources
+C:\Users\Kyle Heitman\Desktop\VB_Projects\AutoClicker\AutoClicker\obj\Release\AutoClicker.Form1.resources
+C:\Users\Kyle Heitman\Desktop\VB_Projects\AutoClicker\AutoClicker\obj\Release\AutoClicker.Form2.resources
+C:\Users\Kyle Heitman\Desktop\VB_Projects\AutoClicker\AutoClicker\obj\Release\AutoClicker.Resources.resources
+C:\Users\Kyle Heitman\Desktop\VB_Projects\AutoClicker\AutoClicker\obj\Release\AutoClicker.vbproj.GenerateResource.Cache
+C:\Users\Kyle Heitman\Desktop\VB_Projects\AutoClicker\AutoClicker\obj\Release\AutoClicker.exe.manifest
+C:\Users\Kyle Heitman\Desktop\VB_Projects\AutoClicker\AutoClicker\obj\Release\AutoClicker.application
+C:\Users\Kyle Heitman\Desktop\Old school projects\VB_Projects\AutoClicker\AutoClicker\bin\Release\AutoClicker.exe.config
+C:\Users\Kyle Heitman\Desktop\Old school projects\VB_Projects\AutoClicker\AutoClicker\obj\Release\AutoClicker.exe
+C:\Users\Kyle Heitman\Desktop\Old school projects\VB_Projects\AutoClicker\AutoClicker\obj\Release\AutoClicker.xml
+C:\Users\Kyle Heitman\Desktop\Old school projects\VB_Projects\AutoClicker\AutoClicker\obj\Release\AutoClicker.pdb
+C:\Users\kyle\Downloads\AutoClicker\AutoClicker\bin\Release\AutoClicker.exe.config
+C:\Users\kyle\Downloads\AutoClicker\AutoClicker\obj\Release\AutoClicker.exe
+C:\Users\kyle\Downloads\AutoClicker\AutoClicker\obj\Release\AutoClicker.xml
+C:\Users\kyle\Downloads\AutoClicker\AutoClicker\obj\Release\AutoClicker.pdb
+C:\Users\kyle\Downloads\AutoClicker\AutoClicker\bin\Release\AutoClicker.exe.manifest
+C:\Users\kyle\Downloads\AutoClicker\AutoClicker\bin\Release\AutoClicker.application
+C:\Users\kyle\Downloads\AutoClicker\AutoClicker\bin\Release\AutoClicker.exe
+C:\Users\kyle\Downloads\AutoClicker\AutoClicker\bin\Release\AutoClicker.pdb
+C:\Users\kyle\Downloads\AutoClicker\AutoClicker\bin\Release\AutoClicker.xml
+C:\Users\kyle\Downloads\AutoClicker\AutoClicker\obj\Release\AutoClicker.Form4.resources
+C:\Users\kyle\Downloads\AutoClicker\AutoClicker\obj\Release\AutoClicker.Help.resources
+C:\Users\kyle\Downloads\AutoClicker\AutoClicker\obj\Release\AutoClicker.Form1.resources
+C:\Users\kyle\Downloads\AutoClicker\AutoClicker\obj\Release\AutoClicker.Form2.resources
+C:\Users\kyle\Downloads\AutoClicker\AutoClicker\obj\Release\AutoClicker.Resources.resources
+C:\Users\kyle\Downloads\AutoClicker\AutoClicker\obj\Release\AutoClicker.vbproj.GenerateResource.Cache
+C:\Users\kyle\Downloads\AutoClicker\AutoClicker\obj\Release\AutoClicker.exe.manifest
+C:\Users\kyle\Downloads\AutoClicker\AutoClicker\obj\Release\AutoClicker.application

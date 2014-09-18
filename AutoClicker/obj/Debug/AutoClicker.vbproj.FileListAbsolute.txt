@@ -1,0 +1,27 @@
+C:\Users\Kyle Heitman\AppData\Local\Temporary Projects\AutoClicker\bin\Debug\AutoClicker.exe.config
+C:\Users\Kyle Heitman\AppData\Local\Temporary Projects\AutoClicker\bin\Debug\AutoClicker.exe
+C:\Users\Kyle Heitman\AppData\Local\Temporary Projects\AutoClicker\bin\Debug\AutoClicker.pdb
+C:\Users\Kyle Heitman\AppData\Local\Temporary Projects\AutoClicker\bin\Debug\AutoClicker.xml
+C:\Users\Kyle Heitman\AppData\Local\Temporary Projects\AutoClicker\obj\Debug\AutoClicker.Form1.resources
+C:\Users\Kyle Heitman\AppData\Local\Temporary Projects\AutoClicker\obj\Debug\AutoClicker.Resources.resources
+C:\Users\Kyle Heitman\AppData\Local\Temporary Projects\AutoClicker\obj\Debug\AutoClicker.vbproj.GenerateResource.Cache
+C:\Users\Kyle Heitman\AppData\Local\Temporary Projects\AutoClicker\obj\Debug\AutoClicker.exe
+C:\Users\Kyle Heitman\AppData\Local\Temporary Projects\AutoClicker\obj\Debug\AutoClicker.xml
+C:\Users\Kyle Heitman\AppData\Local\Temporary Projects\AutoClicker\obj\Debug\AutoClicker.pdb
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\bin\Debug\AutoClicker.exe.config
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\obj\Debug\AutoClicker.exe
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\obj\Debug\AutoClicker.xml
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\obj\Debug\AutoClicker.pdb
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\bin\Debug\AutoClicker.exe
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\bin\Debug\AutoClicker.pdb
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\bin\Debug\AutoClicker.xml
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\obj\Debug\AutoClicker.Form1.resources
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\obj\Debug\AutoClicker.Resources.resources
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\obj\Debug\AutoClicker.vbproj.GenerateResource.Cache
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\obj\Debug\AutoClicker.Form2.resources
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\obj\Debug\AutoClicker.Help.resources
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\obj\Debug\AutoClicker.Form4.resources
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\bin\Debug\AutoClicker.exe.manifest
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\bin\Debug\AutoClicker.application
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\obj\Debug\AutoClicker.exe.manifest
+C:\Users\Kyle Heitman\Desktop\AutoClicker\AutoClicker\obj\Debug\AutoClicker.application
